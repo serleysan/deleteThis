@@ -10,8 +10,9 @@
 ## !!some links!:
 [Silly cats!:](https://tenor.com/ru/search/silly-cat-gifs)  
 
-##my email!
+## my email!
 <alinakrivoshey4@gmail.com>
+
 
 <p align="center">
   <img width="400" height="250" src="https://media1.tenor.com/m/eI_NphxRoToAAAAd/slurp-cat.gif">
