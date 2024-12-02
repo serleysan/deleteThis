@@ -1,5 +1,5 @@
-# Добро пожаловать в read me .
-## 。.:☆:･'(*⌒―⌒*)))
+# Добро пожаловать!
+## 。.:☆:･'(⌒―⌒*)))
 ###  ~~*this is my first one! hope u'll like it >_<*~~
 
 ## !!tasks:
@@ -15,6 +15,6 @@
 
 
 <p align="center">
-  <img width="400" height="250" src="https://media1.tenor.com/m/eI_NphxRoToAAAAd/slurp-cat.gif">
+  <img width="400" height="250" src="https://pic.rutubelist.ru/user/b5/e4/b5e47a7c6b9b9945e1971888da0fae13.jpg">
 </p>
 
